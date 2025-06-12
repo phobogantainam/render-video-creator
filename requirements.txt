@@ -4,6 +4,7 @@ gunicorn
 google-generativeai
 python-dotenv
 moviepy
+imageio-ffmpeg
 pexels-api
 gTTS
 requests
