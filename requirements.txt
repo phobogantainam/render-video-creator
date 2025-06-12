@@ -1,7 +1,9 @@
+Flask
+flask-cors
+gunicorn
 google-generativeai
 python-dotenv
-Flask
-gunicorn
-Flask-Cors
-Pillow
+moviepy
 pexels-api
+gTTS
+requests
