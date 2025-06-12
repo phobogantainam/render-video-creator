@@ -1,0 +1,9 @@
+Flask
+flask-cors
+gunicorn
+google-generativeai
+python-dotenv
+moviepy
+pexels-api
+gTTS
+requests
